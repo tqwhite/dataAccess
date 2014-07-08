@@ -1,0 +1,16 @@
+.DS_Store
+._.DS_Store
+._*
+Icon?
+._Icon\r
+
+/application/configs/*
+/library/Credentials/*
+
+public/media/hash/*
+
+/tmp/*
+*.log
+
+*/*/uffSampleData
+lighteningPipe/config/targetServer.js

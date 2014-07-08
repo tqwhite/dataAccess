@@ -1,0 +1,11 @@
+{
+  "name": "dataAccess",
+  "version": "0.0.0",
+  "description": "Based on client and request info, choose a data source and get the data",
+  "main": "dataAccess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TQ White II",
+  "license": "ISC"
+}
